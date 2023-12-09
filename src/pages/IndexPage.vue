@@ -1,10 +1,6 @@
 <template>
   <q-page class=" ">
-    <!--<img
-      alt="Quasar logo"
-      src="~assets/quasar-logo-vertical.svg"
-      style="width: 200px; height: 200px"
-    > -->
+    
     <q-carousel
       swipeable
       animated
@@ -13,10 +9,10 @@
       ref="carousel"
       infinite
     >
-      <q-carousel-slide :name="1" img-src="https://cdn.quasar.dev/img/mountains.jpg" />
-      <q-carousel-slide :name="2" img-src="https://cdn.quasar.dev/img/parallax1.jpg" />
-      <q-carousel-slide :name="3" img-src="https://cdn.quasar.dev/img/parallax2.jpg" />
-      <q-carousel-slide :name="4" img-src="https://cdn.quasar.dev/img/quasar.jpg" />
+      <q-carousel-slide :name="1" img-src="https://www.daysoftheyear.com/wp-content/uploads/national-fast-food-day.jpg" />
+      <q-carousel-slide :name="2" img-src="https://www.mashed.com/img/gallery/the-best-new-fast-food-menu-items-weve-tried-in-2023-so-far/intro-1682446897.jpg" />
+      <q-carousel-slide :name="3" img-src="https://www.tastingtable.com/img/gallery/12-low-carb-fast-food-options-that-wont-ruin-your-diet/intro-1651501665.jpg" />
+      <q-carousel-slide :name="4" img-src="https://cdn.firstcry.com/education/2022/11/12144827/List-of-Fast-Food-Fast-Food-Vocabulary-for-Kids.jpg" />
 
       <template v-slot:control>
         <q-carousel-control
@@ -60,7 +56,7 @@
 
     <div class="row no-wrap items-center">
       <div class="col text-h6 ellipsis">
-        Cafe Basilico
+        Cafe 1
       </div>
       <div class="col-auto text-grey text-caption q-pt-md row no-wrap items-center">
         <q-icon name="place" />
@@ -73,7 +69,7 @@
 
   <q-card-section class="q-pt-none">
     <div class="text-subtitle1">
-      $・Italian, Cafe
+      $・Sri lanka, Cafe
     </div>
     <div class="text-caption text-grey">
       Small plates, salads & sandwiches in an intimate setting.
@@ -105,7 +101,7 @@
 
     <div class="row no-wrap items-center">
       <div class="col text-h6 ellipsis">
-        Cafe Basilico
+        Cafe 2
       </div>
       <div class="col-auto text-grey text-caption q-pt-md row no-wrap items-center">
         <q-icon name="place" />
@@ -118,7 +114,7 @@
 
   <q-card-section class="q-pt-none">
     <div class="text-subtitle1">
-      $・Italian, Cafe
+      $・Sri lanka, Cafe
     </div>
     <div class="text-caption text-grey">
       Small plates, salads & sandwiches in an intimate setting.
@@ -150,7 +146,7 @@
 
     <div class="row no-wrap items-center">
       <div class="col text-h6 ellipsis">
-        Cafe Basilico
+        Cafe 3
       </div>
       <div class="col-auto text-grey text-caption q-pt-md row no-wrap items-center">
         <q-icon name="place" />
@@ -163,7 +159,7 @@
 
   <q-card-section class="q-pt-none">
     <div class="text-subtitle1">
-      $・Italian, Cafe
+      $・Sri lanka, Cafe
     </div>
     <div class="text-caption text-grey">
       Small plates, salads & sandwiches in an intimate setting.
@@ -195,7 +191,7 @@
 
     <div class="row no-wrap items-center">
       <div class="col text-h6 ellipsis">
-        Cafe Basilico
+        Cafe 4
       </div>
       <div class="col-auto text-grey text-caption q-pt-md row no-wrap items-center">
         <q-icon name="place" />
@@ -208,7 +204,7 @@
 
   <q-card-section class="q-pt-none">
     <div class="text-subtitle1">
-      $・Italian, Cafe
+      $・Sri lanka, Cafe
     </div>
     <div class="text-caption text-grey">
       Small plates, salads & sandwiches in an intimate setting.
@@ -243,7 +239,7 @@
 
     <div class="row no-wrap items-center">
       <div class="col text-h6 ellipsis">
-        Cafe Basilico
+        Cafe 5
       </div>
       <div class="col-auto text-grey text-caption q-pt-md row no-wrap items-center">
         <q-icon name="place" />
@@ -256,7 +252,7 @@
 
   <q-card-section class="q-pt-none">
     <div class="text-subtitle1">
-      $・Italian, Cafe
+      $・Sri lanka, Cafe
     </div>
     <div class="text-caption text-grey">
       Small plates, salads & sandwiches in an intimate setting.
@@ -288,7 +284,7 @@
 
     <div class="row no-wrap items-center">
       <div class="col text-h6 ellipsis">
-        Cafe Basilico
+        Cafe 6
       </div>
       <div class="col-auto text-grey text-caption q-pt-md row no-wrap items-center">
         <q-icon name="place" />
@@ -301,7 +297,7 @@
 
   <q-card-section class="q-pt-none">
     <div class="text-subtitle1">
-      $・Italian, Cafe
+      $・Sri lanka, Cafe
     </div>
     <div class="text-caption text-grey">
       Small plates, salads & sandwiches in an intimate setting.
@@ -333,7 +329,7 @@
 
     <div class="row no-wrap items-center">
       <div class="col text-h6 ellipsis">
-        Cafe Basilico
+        Cafe 7
       </div>
       <div class="col-auto text-grey text-caption q-pt-md row no-wrap items-center">
         <q-icon name="place" />
@@ -346,7 +342,7 @@
 
   <q-card-section class="q-pt-none">
     <div class="text-subtitle1">
-      $・Italian, Cafe
+      $・Sri lanka, Cafe
     </div>
     <div class="text-caption text-grey">
       Small plates, salads & sandwiches in an intimate setting.
@@ -378,7 +374,7 @@
 
     <div class="row no-wrap items-center">
       <div class="col text-h6 ellipsis">
-        Cafe Basilico
+        Cafe 8
       </div>
       <div class="col-auto text-grey text-caption q-pt-md row no-wrap items-center">
         <q-icon name="place" />
@@ -391,7 +387,7 @@
 
   <q-card-section class="q-pt-none">
     <div class="text-subtitle1">
-      $・Italian, Cafe
+      $・Sri lanka, Cafe
     </div>
     <div class="text-caption text-grey">
       Small plates, salads & sandwiches in an intimate setting.
